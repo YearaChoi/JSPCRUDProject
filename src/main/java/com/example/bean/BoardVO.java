@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class BoardVO { // 하나의 데이터를 담기 위한 객체로 생성
 	private int seq;
+	private String category;
 	private String title;
 	private String writer;
 	private String content;
@@ -45,5 +46,13 @@ public class BoardVO { // 하나의 데이터를 담기 위한 객체로 생성
 	}
 	public void setCnt(int cnt) {
 		this.cnt = cnt;
+	}
+
+	public String getCategory() {
+		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
 	}
 }
