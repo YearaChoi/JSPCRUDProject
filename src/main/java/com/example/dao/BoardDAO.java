@@ -14,7 +14,7 @@ public class BoardDAO {
 	Connection conn = null;
 	PreparedStatement stmt = null;
 	ResultSet rs = null;
-
+//에러확인
 	private final String BOARD_INSERT = "insert into BOARD (category, title, writer, content) values (?,?,?,?)";
 	private final String BOARD_UPDATE = "update BOARD set category=?, title=?, writer=?, content=? where seq=?";
 	private final String BOARD_DELETE = "delete from BOARD  where seq=?";

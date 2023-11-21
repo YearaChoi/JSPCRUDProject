@@ -7,6 +7,7 @@
 <jsp:useBean id="u" class="com.example.bean.BoardVO" />
 <jsp:setProperty property="*" name="u"/>
 
+
 <%
 	BoardDAO boardDAO = new BoardDAO();
 	int i = boardDAO.insertBoard(u);
