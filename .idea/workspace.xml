@@ -9,11 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2caee6d3-0e11-4f52-a817-e6339558c662" name="Changes" comment="Update editform.jsp">
+    <list default="true" id="2caee6d3-0e11-4f52-a817-e6339558c662" name="Changes" comment="Update final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/dao/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/BoardDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/util/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/util/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/addpost.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addpost.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +148,7 @@
       <workItem from="1700412632459" duration="66000" />
       <workItem from="1700491910265" duration="3915000" />
       <workItem from="1700496904611" duration="1063000" />
-      <workItem from="1700529407699" duration="1393000" />
+      <workItem from="1700529407699" duration="2385000" />
     </task>
     <task id="LOCAL-00001" summary="Create JSPCRUD Project">
       <option name="closed" value="true" />
@@ -200,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700494282927</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update final">
+      <option name="closed" value="true" />
+      <created>1700530849392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700530849392</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +219,7 @@
     <MESSAGE value="Update post.jsp" />
     <MESSAGE value="Update addpostform.jsp" />
     <MESSAGE value="Update editform.jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update editform.jsp" />
+    <MESSAGE value="Update final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update final" />
   </component>
 </project>

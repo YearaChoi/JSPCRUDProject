@@ -38,6 +38,7 @@ public class BoardDAO {
 		return 0;
 	}
 
+
 	// 글 삭제
 	public void deleteBoard(BoardVO vo) {
 		System.out.println("===> JDBC로 deleteBoard() 기능 처리");
